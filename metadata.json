@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Taharah Assistant & Dashboard Canvas",
+  "description": "An interactive high-performance drag-and-drop dashboard canvas showcasing a modular AI Smart Taharah Assistant widget integrated with the server-side Gemini Vision API.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
